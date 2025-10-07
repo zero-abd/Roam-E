@@ -1,5 +1,5 @@
 # Roam-E 🤖
-## WRO 2024 - Team Paragon
+## WRO - Team Paragon
 ### A small intelligent robot car that can roam around autonomously by detecting traffic signals
 
 ---
